@@ -1,2 +1,2 @@
 # Student-Database
-Database created in python
+This is a simple database created using python and pickle API
